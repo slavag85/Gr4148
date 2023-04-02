@@ -1,0 +1,15 @@
+C:\Users\salva\Desktop\Gr4148\Gr4148\Sem1Taask00\bin\Debug\net7.0\Sem1Taask00.exe
+C:\Users\salva\Desktop\Gr4148\Gr4148\Sem1Taask00\bin\Debug\net7.0\Sem1Taask00.deps.json
+C:\Users\salva\Desktop\Gr4148\Gr4148\Sem1Taask00\bin\Debug\net7.0\Sem1Taask00.runtimeconfig.json
+C:\Users\salva\Desktop\Gr4148\Gr4148\Sem1Taask00\bin\Debug\net7.0\Sem1Taask00.dll
+C:\Users\salva\Desktop\Gr4148\Gr4148\Sem1Taask00\bin\Debug\net7.0\Sem1Taask00.pdb
+C:\Users\salva\Desktop\Gr4148\Gr4148\Sem1Taask00\obj\Debug\net7.0\Sem1Taask00.csproj.AssemblyReference.cache
+C:\Users\salva\Desktop\Gr4148\Gr4148\Sem1Taask00\obj\Debug\net7.0\Sem1Taask00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salva\Desktop\Gr4148\Gr4148\Sem1Taask00\obj\Debug\net7.0\Sem1Taask00.AssemblyInfoInputs.cache
+C:\Users\salva\Desktop\Gr4148\Gr4148\Sem1Taask00\obj\Debug\net7.0\Sem1Taask00.AssemblyInfo.cs
+C:\Users\salva\Desktop\Gr4148\Gr4148\Sem1Taask00\obj\Debug\net7.0\Sem1Taask00.csproj.CoreCompileInputs.cache
+C:\Users\salva\Desktop\Gr4148\Gr4148\Sem1Taask00\obj\Debug\net7.0\Sem1Taask00.dll
+C:\Users\salva\Desktop\Gr4148\Gr4148\Sem1Taask00\obj\Debug\net7.0\refint\Sem1Taask00.dll
+C:\Users\salva\Desktop\Gr4148\Gr4148\Sem1Taask00\obj\Debug\net7.0\Sem1Taask00.pdb
+C:\Users\salva\Desktop\Gr4148\Gr4148\Sem1Taask00\obj\Debug\net7.0\Sem1Taask00.genruntimeconfig.cache
+C:\Users\salva\Desktop\Gr4148\Gr4148\Sem1Taask00\obj\Debug\net7.0\ref\Sem1Taask00.dll
